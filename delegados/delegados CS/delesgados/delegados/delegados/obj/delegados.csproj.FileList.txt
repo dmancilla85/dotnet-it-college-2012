@@ -1,0 +1,8 @@
+bin\Debug\delegados.exe
+bin\Debug\delegados.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\delegados.Form1.resources
+obj\Debug\delegados.Properties.Resources.resources
+obj\Debug\delegados.csproj.GenerateResource.Cache
+obj\Debug\delegados.exe
+obj\Debug\delegados.pdb

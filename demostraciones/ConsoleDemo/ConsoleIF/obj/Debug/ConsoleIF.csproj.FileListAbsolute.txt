@@ -1,0 +1,5 @@
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleIF\bin\Debug\ConsoleIF.exe
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleIF\bin\Debug\ConsoleIF.pdb
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleIF\obj\Debug\ResolveAssemblyReference.cache
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleIF\obj\Debug\ConsoleIF.exe
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleIF\obj\Debug\ConsoleIF.pdb

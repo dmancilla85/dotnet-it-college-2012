@@ -1,0 +1,105 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winCursos", "winCursos\winCursos.csproj", "{F5A06A9A-A3C7-4728-A931-60BF167ACF44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libreria", "Libreria\Libreria.csproj", "{17D58015-5930-48B5-BCA8-BD268E6582CF}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "webCursos", "webCursos\", "{3838DDF8-2923-4C14-AF28-D8C270393235}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		ProjectReferences = "{17D58015-5930-48B5-BCA8-BD268E6582CF}|Libreria.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/webCursos"
+		Debug.AspNetCompiler.PhysicalPath = "webCursos\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\webCursos\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/webCursos"
+		Release.AspNetCompiler.PhysicalPath = "webCursos\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\webCursos\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1090"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "webServiceCursos", "webServiceCursos\", "{DBDBAC3A-8CE9-4DED-991F-419082BC9321}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/webServiceCursos"
+		Debug.AspNetCompiler.PhysicalPath = "webServiceCursos\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\webServiceCursos\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/webServiceCursos"
+		Release.AspNetCompiler.PhysicalPath = "webServiceCursos\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\webServiceCursos\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1091"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5A06A9A-A3C7-4728-A931-60BF167ACF44}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{F5A06A9A-A3C7-4728-A931-60BF167ACF44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A06A9A-A3C7-4728-A931-60BF167ACF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A06A9A-A3C7-4728-A931-60BF167ACF44}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F5A06A9A-A3C7-4728-A931-60BF167ACF44}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F5A06A9A-A3C7-4728-A931-60BF167ACF44}.Release|.NET.ActiveCfg = Release|Any CPU
+		{F5A06A9A-A3C7-4728-A931-60BF167ACF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A06A9A-A3C7-4728-A931-60BF167ACF44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A06A9A-A3C7-4728-A931-60BF167ACF44}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F5A06A9A-A3C7-4728-A931-60BF167ACF44}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{17D58015-5930-48B5-BCA8-BD268E6582CF}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{17D58015-5930-48B5-BCA8-BD268E6582CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D58015-5930-48B5-BCA8-BD268E6582CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D58015-5930-48B5-BCA8-BD268E6582CF}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{17D58015-5930-48B5-BCA8-BD268E6582CF}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{17D58015-5930-48B5-BCA8-BD268E6582CF}.Release|.NET.ActiveCfg = Release|Any CPU
+		{17D58015-5930-48B5-BCA8-BD268E6582CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D58015-5930-48B5-BCA8-BD268E6582CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17D58015-5930-48B5-BCA8-BD268E6582CF}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{17D58015-5930-48B5-BCA8-BD268E6582CF}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{3838DDF8-2923-4C14-AF28-D8C270393235}.Debug|.NET.ActiveCfg = Debug|.NET
+		{3838DDF8-2923-4C14-AF28-D8C270393235}.Debug|.NET.Build.0 = Debug|.NET
+		{3838DDF8-2923-4C14-AF28-D8C270393235}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{3838DDF8-2923-4C14-AF28-D8C270393235}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{3838DDF8-2923-4C14-AF28-D8C270393235}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{3838DDF8-2923-4C14-AF28-D8C270393235}.Release|.NET.ActiveCfg = Debug|.NET
+		{3838DDF8-2923-4C14-AF28-D8C270393235}.Release|.NET.Build.0 = Debug|.NET
+		{3838DDF8-2923-4C14-AF28-D8C270393235}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{3838DDF8-2923-4C14-AF28-D8C270393235}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{3838DDF8-2923-4C14-AF28-D8C270393235}.Release|Mixed Platforms.Build.0 = Debug|.NET
+		{DBDBAC3A-8CE9-4DED-991F-419082BC9321}.Debug|.NET.ActiveCfg = Debug|.NET
+		{DBDBAC3A-8CE9-4DED-991F-419082BC9321}.Debug|.NET.Build.0 = Debug|.NET
+		{DBDBAC3A-8CE9-4DED-991F-419082BC9321}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{DBDBAC3A-8CE9-4DED-991F-419082BC9321}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{DBDBAC3A-8CE9-4DED-991F-419082BC9321}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{DBDBAC3A-8CE9-4DED-991F-419082BC9321}.Release|.NET.ActiveCfg = Debug|.NET
+		{DBDBAC3A-8CE9-4DED-991F-419082BC9321}.Release|.NET.Build.0 = Debug|.NET
+		{DBDBAC3A-8CE9-4DED-991F-419082BC9321}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{DBDBAC3A-8CE9-4DED-991F-419082BC9321}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{DBDBAC3A-8CE9-4DED-991F-419082BC9321}.Release|Mixed Platforms.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

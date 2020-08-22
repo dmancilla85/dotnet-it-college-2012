@@ -1,0 +1,10 @@
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleException\bin\Debug\ConsoleException.exe
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleException\bin\Debug\ConsoleException.pdb
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleException\obj\Debug\ResolveAssemblyReference.cache
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleException\obj\Debug\ConsoleException.exe
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleException\obj\Debug\ConsoleException.pdb
+C:\GABRIELA GILES\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleException\obj\Debug\ConsoleException.exe
+C:\GABRIELA GILES\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleException\obj\Debug\ConsoleException.pdb
+C:\GABRIELA GILES\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleException\bin\Debug\ConsoleException.exe
+C:\GABRIELA GILES\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleException\bin\Debug\ConsoleException.pdb
+C:\GABRIELA GILES\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleException\obj\Debug\ResolveAssemblyReference.cache

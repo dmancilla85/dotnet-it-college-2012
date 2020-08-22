@@ -1,0 +1,99 @@
+VERIFICAR QUE LOS NOMBRES DE LAS COLUMNAS Y DE LA TABLA CLIENTE SON LOS MISMOS ANTES DE CREAR LOS STORE PROCEDURE
+
+
+CREATE TABLE Cliente ( 
+id	INTEGER IDENTITY,
+Apellido VARCHAR(50) NOT NULL DEFAULT '', 
+Nombre VARCHAR(50) NOT NULL DEFAULT '',
+Localidad VARCHAR(50) NOT NULL DEFAULT '', 
+FechaNacimiento DATETIME NOT NULL
+)
+
+
+
+CREATE PROCEDURE dbo.traerTodosCliente
+
+AS
+SELECT     Localidad, FechaNacimiento, Apellido, Nombre, id
+FROM         Cliente
+go
+---------------------------------------------
+
+CREATE PROCEDURE dbo.traerTodosClientePorLocalidad
+@Localidad varchar(50)
+AS
+SELECT     Localidad, FechaNacimiento, Apellido, Nombre, id
+FROM         Cliente
+where Localidad=@Localidad
+go
+------------------------------------------
+
+CREATE PROCEDURE dbo.insertarCliente
+@Nombre varchar(50),
+@Apellido varchar(50) ,
+@FechaNacimiento datetime,
+@Localidad varchar(50)
+AS
+INSERT INTO Cliente
+                      (Nombre, Apellido, FechaNacimiento, Localidad)
+VALUES     (@Nombre,@Apellido,@FechaNacimiento,@Localidad)
+go
+---------------------------------------
+CREATE PROCEDURE dbo.modificarCliente
+@Nombre varchar(50),
+@Apellido varchar(50) ,
+@FechaNacimiento datetime,
+@Localidad varchar(50),
+@id int
+
+AS
+
+
+UPDATE    Cliente
+SET              Nombre = @Nombre, Apellido = @Apellido, FechaNacimiento = @FechaNacimiento, Localidad = @Localidad
+where id= @id
+go
+-----------------------------------------
+CREATE PROCEDURE dbo.eliminarCliente
+@id int
+
+AS
+delete from Cliente
+where id=@id
+go
+
+EXEC dbo.insertarCliente
+@Nombre ='Roque',
+@Apellido ='Narvaja' ,
+@FechaNacimiento ='19720113',
+@Localidad ='Bernal'
+
+EXEC dbo.insertarCliente
+@Nombre ='Ana',
+@Apellido ='Suspicious' ,
+@FechaNacimiento ='1993',
+@Localidad ='Tigre'
+
+EXEC dbo.insertarCliente
+@Nombre ='Luciana',
+@Apellido ='Chinwen' ,
+@FechaNacimiento ='19640316',
+@Localidad ='Morón'
+
+EXEC dbo.insertarCliente
+@Nombre ='Ricardo Miguel',
+@Apellido ='Longipietro' ,
+@FechaNacimiento ='19400928',
+@Localidad ='CABA'
+
+EXEC dbo.insertarCliente
+@Nombre ='Carlos',
+@Apellido ='Michelin' ,
+@FechaNacimiento ='19820224',
+@Localidad ='Morón'
+
+EXEC dbo.insertarCliente
+@Nombre ='Sandra',
+@Apellido ='Lopresti' ,
+@FechaNacimiento ='19921004',
+@Localidad ='San Miguel'

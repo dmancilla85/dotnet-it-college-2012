@@ -1,0 +1,5 @@
+bin\Debug\mcMath.dll
+bin\Debug\mcMath.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\mcMath.dll
+obj\Debug\mcMath.pdb

@@ -1,0 +1,3 @@
+E:\gabu\POO\delegados\delegados\WindowsAppDelegados\WindowsAppDelegados2\obj\Debug\WindowsAppDelegados2.exe
+E:\gabu\POO\delegados\delegados\WindowsAppDelegados\WindowsAppDelegados2\obj\Debug\WindowsAppDelegados2.xml
+E:\gabu\POO\delegados\delegados\WindowsAppDelegados\WindowsAppDelegados2\obj\Debug\WindowsAppDelegados2.pdb

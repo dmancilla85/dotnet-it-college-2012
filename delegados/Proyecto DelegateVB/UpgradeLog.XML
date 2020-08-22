@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DelegateVB">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\gagus\Escritorio\globaltech\11-04-06\DelegateVB\DelegateVB.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\gagus\Escritorio\globaltech\11-04-06\DelegateVB\DelegateVB.suo">
+</Property><Property Name="Date" Value="Lunes, 10 de Abril de 2006">
+</Property><Property Name="Time" Value="21:15 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DelegateVB.sln" Description="File successfully backed up as C:\Documents and Settings\gagus\Escritorio\globaltech\11-04-06\DelegateVB\Backup\DelegateVB.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DelegateVB.suo" Description="File successfully backed up as C:\Documents and Settings\gagus\Escritorio\globaltech\11-04-06\DelegateVB\Backup\DelegateVB.suo">
+</Event><Event ErrorLevel="0" Project="DelegateVB" Source="DelegateVB.vbproj" Description="Project file successfully backed up as C:\Documents and Settings\gagus\Escritorio\globaltech\11-04-06\DelegateVB\Backup\DelegateVB.vbproj">
+</Event><Event ErrorLevel="0" Project="DelegateVB" Source="DelegateVB.vbproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\gagus\Escritorio\globaltech\11-04-06\DelegateVB\Backup\DelegateVB.vbproj.user">
+</Event><Event ErrorLevel="0" Project="DelegateVB" Source="Delegates.vb" Description="File successfully backed up as C:\Documents and Settings\gagus\Escritorio\globaltech\11-04-06\DelegateVB\Backup\Delegates.vb">
+</Event><Event ErrorLevel="0" Project="DelegateVB" Source="DelegateVB.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DelegateVB" Source="DelegateVB.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DelegateVB.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DelegateVB.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DelegateVB" Source="DelegateVB.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

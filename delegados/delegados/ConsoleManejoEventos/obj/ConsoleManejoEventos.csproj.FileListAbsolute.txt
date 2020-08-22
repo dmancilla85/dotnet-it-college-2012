@@ -1,0 +1,2 @@
+E:\gabu\POO\delegados\delegados\ConsoleManejoEventos\obj\Debug\ConsoleManejoEventos.exe
+E:\gabu\POO\delegados\delegados\ConsoleManejoEventos\obj\Debug\ConsoleManejoEventos.pdb

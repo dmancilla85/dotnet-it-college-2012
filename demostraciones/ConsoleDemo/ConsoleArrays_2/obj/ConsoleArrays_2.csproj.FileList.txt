@@ -1,0 +1,5 @@
+bin\Debug\ConsoleArrays_2.exe
+bin\Debug\ConsoleArrays_2.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ConsoleArrays_2.exe
+obj\Debug\ConsoleArrays_2.pdb

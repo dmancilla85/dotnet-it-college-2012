@@ -1,0 +1,7 @@
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleStruct\bin\Debug\ConsoleStruct.exe
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleStruct\bin\Debug\ConsoleStruct.pdb
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleStruct\obj\Debug\ResolveAssemblyReference.cache
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleStruct\obj\Debug\ConsoleStruct.exe
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleStruct\obj\Debug\ConsoleStruct.pdb
+C:\GABRIELA GILES\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleStruct\obj\Debug\ConsoleStruct.exe
+C:\GABRIELA GILES\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleStruct\obj\Debug\ConsoleStruct.pdb

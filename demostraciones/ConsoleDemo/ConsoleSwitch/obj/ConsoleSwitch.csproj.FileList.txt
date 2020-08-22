@@ -1,0 +1,5 @@
+bin\Debug\ConsoleSwitch.exe
+bin\Debug\ConsoleSwitch.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ConsoleSwitch.exe
+obj\Debug\ConsoleSwitch.pdb

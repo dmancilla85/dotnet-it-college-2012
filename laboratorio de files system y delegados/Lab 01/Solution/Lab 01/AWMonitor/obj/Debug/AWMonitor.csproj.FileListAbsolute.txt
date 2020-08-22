@@ -1,0 +1,7 @@
+C:\cursoC#\laboratorio de files system y delegados\Lab 01\Solution\Lab 01\AWMonitor\obj\Debug\AWMonitor.exe
+C:\cursoC#\laboratorio de files system y delegados\Lab 01\Solution\Lab 01\AWMonitor\obj\Debug\AWMonitor.pdb
+C:\cursoC#\laboratorio de files system y delegados\Lab 01\Solution\Lab 01\AWMonitor\bin\Debug\AWMonitor.exe
+C:\cursoC#\laboratorio de files system y delegados\Lab 01\Solution\Lab 01\AWMonitor\bin\Debug\AWMonitor.pdb
+C:\cursoC#\laboratorio de files system y delegados\Lab 01\Solution\Lab 01\AWMonitor\bin\Debug\FileSystemWatcher.dll
+C:\cursoC#\laboratorio de files system y delegados\Lab 01\Solution\Lab 01\AWMonitor\bin\Debug\FileSystemWatcher.pdb
+C:\cursoC#\laboratorio de files system y delegados\Lab 01\Solution\Lab 01\AWMonitor\obj\Debug\ResolveAssemblyReference.cache

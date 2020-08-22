@@ -1,0 +1,11 @@
+D:\Proyectos\c#\Facturacion\Facturacion\srvWebXml\bin\srvWebXml.dll
+D:\Proyectos\c#\Facturacion\Facturacion\srvWebXml\bin\srvWebXml.pdb
+D:\Proyectos\c#\Facturacion\Facturacion\srvWebXml\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\c#\Facturacion\Facturacion\srvWebXml\obj\Debug\srvWebXml.dll
+D:\Proyectos\c#\Facturacion\Facturacion\srvWebXml\obj\Debug\srvWebXml.pdb
+D:\Proyectos\dotnet\Facturacion\Facturacion\srvWebXml\bin\srvWebXml.dll.config
+D:\Proyectos\dotnet\Facturacion\Facturacion\srvWebXml\bin\srvWebXml.dll
+D:\Proyectos\dotnet\Facturacion\Facturacion\srvWebXml\bin\srvWebXml.pdb
+D:\Proyectos\dotnet\Facturacion\Facturacion\srvWebXml\obj\Debug\srvWebXml.csprojAssemblyReference.cache
+D:\Proyectos\dotnet\Facturacion\Facturacion\srvWebXml\obj\Debug\srvWebXml.dll
+D:\Proyectos\dotnet\Facturacion\Facturacion\srvWebXml\obj\Debug\srvWebXml.pdb

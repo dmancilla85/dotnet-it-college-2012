@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ConsoleDemo">
+</Property><Property Name="Solution File" Value="F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleDemo.sln">
+</Property><Property Name="User Options File" Value="F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleDemo.suo">
+</Property><Property Name="Date" Value="Sunday, February 06, 2011">
+</Property><Property Name="Time" Value="9:43 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ConsoleDemo.sln" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleDemo.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ConsoleDemo.suo" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleDemo.suo">
+</Event><Event ErrorLevel="0" Project="ConsoleDemo" Source="ConsoleDemo\ConsoleDemo.csproj" Description="Project file successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleDemo\ConsoleDemo.csproj">
+</Event><Event ErrorLevel="0" Project="ConsoleDemo" Source="ConsoleDemo\Program.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleDemo\Program.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleDemo" Source="ConsoleDemo\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleDemo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleDemo" Source="ConsoleDemo\ConsoleDemo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConsoleDemo" Source="ConsoleDemo\ConsoleDemo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConsoleIF" Source="ConsoleIF\ConsoleIF.csproj" Description="Project file successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleIF\ConsoleIF.csproj">
+</Event><Event ErrorLevel="0" Project="ConsoleIF" Source="ConsoleIF\Program.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleIF\Program.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleIF" Source="ConsoleIF\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleIF\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleIF" Source="ConsoleIF\ConsoleIF.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConsoleIF" Source="ConsoleIF\ConsoleIF.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConsoleSwitch" Source="ConsoleSwitch\ConsoleSwitch.csproj" Description="Project file successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleSwitch\ConsoleSwitch.csproj">
+</Event><Event ErrorLevel="0" Project="ConsoleSwitch" Source="ConsoleSwitch\Program.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleSwitch\Program.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleSwitch" Source="ConsoleSwitch\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleSwitch\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleSwitch" Source="ConsoleSwitch\ConsoleSwitch.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConsoleSwitch" Source="ConsoleSwitch\ConsoleSwitch.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConsoleSufijoPrefijo" Source="ConsoleSufijoPrefijo\ConsoleSufijoPrefijo.csproj" Description="Project file successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleSufijoPrefijo\ConsoleSufijoPrefijo.csproj">
+</Event><Event ErrorLevel="0" Project="ConsoleSufijoPrefijo" Source="ConsoleSufijoPrefijo\Program.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleSufijoPrefijo\Program.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleSufijoPrefijo" Source="ConsoleSufijoPrefijo\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleSufijoPrefijo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleSufijoPrefijo" Source="ConsoleSufijoPrefijo\ConsoleSufijoPrefijo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConsoleSufijoPrefijo" Source="ConsoleSufijoPrefijo\ConsoleSufijoPrefijo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConsoleEnum" Source="ConsoleEnum\ConsoleEnum.csproj" Description="Project file successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleEnum\ConsoleEnum.csproj">
+</Event><Event ErrorLevel="0" Project="ConsoleEnum" Source="ConsoleEnum\Program.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleEnum\Program.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleEnum" Source="ConsoleEnum\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleEnum\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleEnum" Source="ConsoleEnum\ConsoleEnum.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConsoleEnum" Source="ConsoleEnum\ConsoleEnum.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConsoleEnum_2" Source="ConsoleEnum_2\ConsoleEnum_2.csproj" Description="Project file successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleEnum_2\ConsoleEnum_2.csproj">
+</Event><Event ErrorLevel="0" Project="ConsoleEnum_2" Source="ConsoleEnum_2\Program.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleEnum_2\Program.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleEnum_2" Source="ConsoleEnum_2\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleEnum_2\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleEnum_2" Source="ConsoleEnum_2\ConsoleEnum_2.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConsoleEnum_2" Source="ConsoleEnum_2\ConsoleEnum_2.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConsoleEnum_3" Source="ConsoleEnum_3\ConsoleEnum_3.csproj" Description="Project file successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleEnum_3\ConsoleEnum_3.csproj">
+</Event><Event ErrorLevel="0" Project="ConsoleEnum_3" Source="ConsoleEnum_3\Program.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleEnum_3\Program.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleEnum_3" Source="ConsoleEnum_3\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleEnum_3\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleEnum_3" Source="ConsoleEnum_3\ConsoleEnum_3.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConsoleEnum_3" Source="ConsoleEnum_3\ConsoleEnum_3.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConsoleStruct" Source="ConsoleStruct\ConsoleStruct.csproj" Description="Project file successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleStruct\ConsoleStruct.csproj">
+</Event><Event ErrorLevel="0" Project="ConsoleStruct" Source="ConsoleStruct\Program.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleStruct\Program.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleStruct" Source="ConsoleStruct\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleStruct\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleStruct" Source="ConsoleStruct\ConsoleStruct.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConsoleStruct" Source="ConsoleStruct\ConsoleStruct.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConsoleStruct_simple" Source="ConsoleStruct_simple\ConsoleStruct_simple.csproj" Description="Project file successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleStruct_simple\ConsoleStruct_simple.csproj">
+</Event><Event ErrorLevel="0" Project="ConsoleStruct_simple" Source="ConsoleStruct_simple\Program.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleStruct_simple\Program.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleStruct_simple" Source="ConsoleStruct_simple\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleStruct_simple\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleStruct_simple" Source="ConsoleStruct_simple\ConsoleStruct_simple.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConsoleStruct_simple" Source="ConsoleStruct_simple\ConsoleStruct_simple.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConsoleArrays" Source="ConsoleArrays\ConsoleArrays.csproj" Description="Project file successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleArrays\ConsoleArrays.csproj">
+</Event><Event ErrorLevel="0" Project="ConsoleArrays" Source="ConsoleArrays\Program.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleArrays\Program.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleArrays" Source="ConsoleArrays\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleArrays\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleArrays" Source="ConsoleArrays\ConsoleArrays.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConsoleArrays" Source="ConsoleArrays\ConsoleArrays.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConsoleArrays_2" Source="ConsoleArrays_2\ConsoleArrays_2.csproj" Description="Project file successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleArrays_2\ConsoleArrays_2.csproj">
+</Event><Event ErrorLevel="0" Project="ConsoleArrays_2" Source="ConsoleArrays_2\Program.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleArrays_2\Program.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleArrays_2" Source="ConsoleArrays_2\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleArrays_2\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleArrays_2" Source="ConsoleArrays_2\ConsoleArrays_2.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConsoleArrays_2" Source="ConsoleArrays_2\ConsoleArrays_2.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConsoleException" Source="ConsoleException\ConsoleException.csproj" Description="Project file successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleException\ConsoleException.csproj">
+</Event><Event ErrorLevel="0" Project="ConsoleException" Source="ConsoleException\Program.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleException\Program.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleException" Source="ConsoleException\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\ConsoleException\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleException" Source="ConsoleException\ConsoleException.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConsoleException" Source="ConsoleException\ConsoleException.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="mcMath" Source="mcMath\mcMath.csproj" Description="Project file successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\mcMath\mcMath.csproj">
+</Event><Event ErrorLevel="0" Project="mcMath" Source="mcMath\Class1.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\mcMath\Class1.cs">
+</Event><Event ErrorLevel="0" Project="mcMath" Source="mcMath\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\mcMath\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="mcMath" Source="mcMath\ClassDiagram1.cd" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\mcMath\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="mcMath" Source="mcMath\ClassDiagram2.cd" Description="File successfully backed up as F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\Backup\mcMath\ClassDiagram2.cd">
+</Event><Event ErrorLevel="0" Project="mcMath" Source="mcMath\mcMath.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="mcMath" Source="mcMath\mcMath.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ConsoleDemo.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ConsoleDemo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConsoleDemo" Source="ConsoleDemo\ConsoleDemo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ConsoleIF" Source="ConsoleIF\ConsoleIF.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ConsoleSwitch" Source="ConsoleSwitch\ConsoleSwitch.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ConsoleSufijoPrefijo" Source="ConsoleSufijoPrefijo\ConsoleSufijoPrefijo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ConsoleEnum" Source="ConsoleEnum\ConsoleEnum.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ConsoleEnum_2" Source="ConsoleEnum_2\ConsoleEnum_2.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ConsoleEnum_3" Source="ConsoleEnum_3\ConsoleEnum_3.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ConsoleStruct" Source="ConsoleStruct\ConsoleStruct.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ConsoleStruct_simple" Source="ConsoleStruct_simple\ConsoleStruct_simple.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ConsoleArrays" Source="ConsoleArrays\ConsoleArrays.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ConsoleArrays_2" Source="ConsoleArrays_2\ConsoleArrays_2.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ConsoleException" Source="ConsoleException\ConsoleException.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="mcMath" Source="mcMath\mcMath.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

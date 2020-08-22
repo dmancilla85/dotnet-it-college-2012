@@ -1,0 +1,11 @@
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleSufijoPrefijo\bin\Debug\ConsoleSufijoPrefijo.exe
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleSufijoPrefijo\bin\Debug\ConsoleSufijoPrefijo.pdb
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleSufijoPrefijo\obj\Debug\ResolveAssemblyReference.cache
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleSufijoPrefijo\obj\Debug\ConsoleSufijoPrefijo.exe
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleSufijoPrefijo\obj\Debug\ConsoleSufijoPrefijo.pdb
+C:\GABRIELA GILES\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleSufijoPrefijo\obj\Debug\ConsoleSufijoPrefijo.exe
+C:\GABRIELA GILES\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleSufijoPrefijo\obj\Debug\ConsoleSufijoPrefijo.pdb
+C:\GabyGiles\everis C#\demostraciones enum-struct-metodos-array\demostraciones\ConsoleDemo\ConsoleSufijoPrefijo\obj\Debug\ConsoleSufijoPrefijo.exe
+C:\GabyGiles\everis C#\demostraciones enum-struct-metodos-array\demostraciones\ConsoleDemo\ConsoleSufijoPrefijo\obj\Debug\ConsoleSufijoPrefijo.pdb
+C:\cursoNet\demos\demostraciones enum-struct-metodos-array\demostraciones\ConsoleDemo\ConsoleSufijoPrefijo\obj\Debug\ConsoleSufijoPrefijo.exe
+C:\cursoNet\demos\demostraciones enum-struct-metodos-array\demostraciones\ConsoleDemo\ConsoleSufijoPrefijo\obj\Debug\ConsoleSufijoPrefijo.pdb

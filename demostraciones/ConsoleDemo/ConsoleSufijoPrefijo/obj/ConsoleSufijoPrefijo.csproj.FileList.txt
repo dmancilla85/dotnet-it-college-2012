@@ -1,0 +1,5 @@
+bin\Debug\ConsoleSufijoPrefijo.exe
+bin\Debug\ConsoleSufijoPrefijo.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ConsoleSufijoPrefijo.exe
+obj\Debug\ConsoleSufijoPrefijo.pdb

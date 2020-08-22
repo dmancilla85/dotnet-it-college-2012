@@ -1,0 +1,10 @@
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleStruct_simple\obj\Debug\ConsoleStruct_simple.exe
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleStruct_simple\obj\Debug\ConsoleStruct_simple.pdb
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleStruct_simple\bin\Debug\ConsoleStruct_simple.exe
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleStruct_simple\bin\Debug\ConsoleStruct_simple.pdb
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleStruct_simple\obj\Debug\ResolveAssemblyReference.cache
+C:\GABRIELA GILES\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleStruct_simple\bin\Debug\ConsoleStruct_simple.exe
+C:\GABRIELA GILES\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleStruct_simple\bin\Debug\ConsoleStruct_simple.pdb
+C:\GABRIELA GILES\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleStruct_simple\obj\Debug\ResolveAssemblyReference.cache
+C:\GABRIELA GILES\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleStruct_simple\obj\Debug\ConsoleStruct_simple.exe
+C:\GABRIELA GILES\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleStruct_simple\obj\Debug\ConsoleStruct_simple.pdb

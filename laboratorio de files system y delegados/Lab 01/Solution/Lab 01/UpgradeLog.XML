@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Lab 01">
+</Property><Property Name="Solution File" Value="C:\cursoC#\laboratorio de files system y delegados\Lab 01\Solution\Lab 01\Lab 01.sln">
+</Property><Property Name="User Options File" Value="C:\cursoC#\laboratorio de files system y delegados\Lab 01\Solution\Lab 01\Lab 01.suo">
+</Property><Property Name="Date" Value="Viernes, 04 de Noviembre de 2011">
+</Property><Property Name="Time" Value="12:11 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Lab 01.sln" Description="File successfully backed up as C:\cursoC#\laboratorio de files system y delegados\Lab 01\Solution\Lab 01\Backup\Lab 01.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Lab 01.suo" Description="File successfully backed up as C:\cursoC#\laboratorio de files system y delegados\Lab 01\Solution\Lab 01\Backup\Lab 01.suo">
+</Event><Event ErrorLevel="0" Project="FileSystemWatcher" Source="FileSystemWatcher\FileSystemWatcher.csproj" Description="Project file successfully backed up as C:\cursoC#\laboratorio de files system y delegados\Lab 01\Solution\Lab 01\Backup\FileSystemWatcher\FileSystemWatcher.csproj">
+</Event><Event ErrorLevel="0" Project="FileSystemWatcher" Source="FileSystemWatcher\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\cursoC#\laboratorio de files system y delegados\Lab 01\Solution\Lab 01\Backup\FileSystemWatcher\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FileSystemWatcher" Source="FileSystemWatcher\Watcher.cs" Description="File successfully backed up as C:\cursoC#\laboratorio de files system y delegados\Lab 01\Solution\Lab 01\Backup\FileSystemWatcher\Watcher.cs">
+</Event><Event ErrorLevel="0" Project="FileSystemWatcher" Source="FileSystemWatcher\FileSystemWatcher.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FileSystemWatcher" Source="FileSystemWatcher\FileSystemWatcher.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AWMonitor" Source="AWMonitor\AWMonitor.csproj" Description="Project file successfully backed up as C:\cursoC#\laboratorio de files system y delegados\Lab 01\Solution\Lab 01\Backup\AWMonitor\AWMonitor.csproj">
+</Event><Event ErrorLevel="0" Project="AWMonitor" Source="AWMonitor\Program.cs" Description="File successfully backed up as C:\cursoC#\laboratorio de files system y delegados\Lab 01\Solution\Lab 01\Backup\AWMonitor\Program.cs">
+</Event><Event ErrorLevel="0" Project="AWMonitor" Source="AWMonitor\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\cursoC#\laboratorio de files system y delegados\Lab 01\Solution\Lab 01\Backup\AWMonitor\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AWMonitor" Source="AWMonitor\AWMonitor.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AWMonitor" Source="AWMonitor\AWMonitor.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Lab 01.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Lab 01.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FileSystemWatcher" Source="FileSystemWatcher\FileSystemWatcher.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="AWMonitor" Source="AWMonitor\AWMonitor.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

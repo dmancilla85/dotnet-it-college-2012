@@ -1,0 +1,5 @@
+bin\Debug\ConsoleException.exe
+bin\Debug\ConsoleException.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ConsoleException.exe
+obj\Debug\ConsoleException.pdb

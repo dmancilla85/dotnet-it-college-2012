@@ -1,0 +1,5 @@
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\mcMath\bin\Debug\mcMath.dll
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\mcMath\bin\Debug\mcMath.pdb
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\mcMath\obj\Debug\ResolveAssemblyReference.cache
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\mcMath\obj\Debug\mcMath.dll
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\mcMath\obj\Debug\mcMath.pdb

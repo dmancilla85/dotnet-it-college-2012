@@ -1,0 +1,10 @@
+C:\Gabriela Giles\delegados\demoDelegadosVB\DemoDelegadosVB\simple_de_delegates2\bin\Debug\simple_de_delegates2.exe
+C:\Gabriela Giles\delegados\demoDelegadosVB\DemoDelegadosVB\simple_de_delegates2\bin\Debug\simple_de_delegates2.pdb
+C:\Gabriela Giles\delegados\demoDelegadosVB\DemoDelegadosVB\simple_de_delegates2\bin\Debug\simple_de_delegates2.xml
+C:\Gabriela Giles\delegados\demoDelegadosVB\DemoDelegadosVB\simple_de_delegates2\obj\Debug\ResolveAssemblyReference.cache
+C:\Gabriela Giles\delegados\demoDelegadosVB\DemoDelegadosVB\simple_de_delegates2\obj\Debug\simple_de_delegates2.Form1.resources
+C:\Gabriela Giles\delegados\demoDelegadosVB\DemoDelegadosVB\simple_de_delegates2\obj\Debug\simple_de_delegates2.Resources.resources
+C:\Gabriela Giles\delegados\demoDelegadosVB\DemoDelegadosVB\simple_de_delegates2\obj\Debug\simple_de_delegates2.vbproj.GenerateResource.Cache
+C:\Gabriela Giles\delegados\demoDelegadosVB\DemoDelegadosVB\simple_de_delegates2\obj\Debug\simple_de_delegates2.exe
+C:\Gabriela Giles\delegados\demoDelegadosVB\DemoDelegadosVB\simple_de_delegates2\obj\Debug\simple_de_delegates2.xml
+C:\Gabriela Giles\delegados\demoDelegadosVB\DemoDelegadosVB\simple_de_delegates2\obj\Debug\simple_de_delegates2.pdb

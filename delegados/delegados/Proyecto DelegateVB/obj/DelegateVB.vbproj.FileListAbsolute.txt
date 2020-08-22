@@ -1,0 +1,3 @@
+C:\Gabriela Giles\delegados\Proyecto DelegateVB\obj\Debug\VBDelegate.exe
+C:\Gabriela Giles\delegados\Proyecto DelegateVB\obj\Debug\VBDelegate.xml
+C:\Gabriela Giles\delegados\Proyecto DelegateVB\obj\Debug\VBDelegate.pdb

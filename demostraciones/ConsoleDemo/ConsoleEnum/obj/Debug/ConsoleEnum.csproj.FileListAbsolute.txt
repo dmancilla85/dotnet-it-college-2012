@@ -1,0 +1,10 @@
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleEnum\bin\Debug\ConsoleEnum.exe
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleEnum\bin\Debug\ConsoleEnum.pdb
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleEnum\obj\Debug\ResolveAssemblyReference.cache
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleEnum\obj\Debug\ConsoleEnum.exe
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleEnum\obj\Debug\ConsoleEnum.pdb
+C:\GABRIELA GILES\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleEnum\bin\Debug\ConsoleEnum.exe
+C:\GABRIELA GILES\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleEnum\bin\Debug\ConsoleEnum.pdb
+C:\GABRIELA GILES\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleEnum\obj\Debug\ResolveAssemblyReference.cache
+C:\GABRIELA GILES\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleEnum\obj\Debug\ConsoleEnum.exe
+C:\GABRIELA GILES\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleEnum\obj\Debug\ConsoleEnum.pdb

@@ -1,0 +1,7 @@
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleEnum_2\bin\Debug\ConsoleEnum_2.exe
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleEnum_2\bin\Debug\ConsoleEnum_2.pdb
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleEnum_2\obj\Debug\ResolveAssemblyReference.cache
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleEnum_2\obj\Debug\ConsoleEnum_2.exe
+F:\Capacitacion\C#\csharp\ejemplos de còdigo y documentaciòn\ConsoleDemo\ConsoleEnum_2\obj\Debug\ConsoleEnum_2.pdb
+C:\cursoNet\demos\demostraciones enum-struct-metodos-array\demostraciones\ConsoleDemo\ConsoleEnum_2\obj\Debug\ConsoleEnum_2.exe
+C:\cursoNet\demos\demostraciones enum-struct-metodos-array\demostraciones\ConsoleDemo\ConsoleEnum_2\obj\Debug\ConsoleEnum_2.pdb

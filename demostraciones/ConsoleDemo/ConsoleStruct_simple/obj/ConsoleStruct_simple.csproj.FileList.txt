@@ -1,0 +1,5 @@
+bin\Debug\ConsoleStruct_simple.exe
+bin\Debug\ConsoleStruct_simple.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ConsoleStruct_simple.exe
+obj\Debug\ConsoleStruct_simple.pdb

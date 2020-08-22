@@ -1,0 +1,10 @@
+bin\Debug\WindowsAppDelegados2.exe
+bin\Debug\WindowsAppDelegados2.pdb
+bin\Debug\WindowsAppDelegados2.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsAppDelegados2.Form1.resources
+obj\Debug\WindowsAppDelegados2.Resources.resources
+obj\Debug\WindowsAppDelegados2.vbproj.GenerateResource.Cache
+obj\Debug\WindowsAppDelegados2.exe
+obj\Debug\WindowsAppDelegados2.xml
+obj\Debug\WindowsAppDelegados2.pdb

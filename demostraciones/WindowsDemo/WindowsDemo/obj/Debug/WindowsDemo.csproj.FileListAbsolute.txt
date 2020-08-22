@@ -1,0 +1,8 @@
+C:\GABRIELA GILES\demos\WindowsDemo\WindowsDemo\bin\Debug\WindowsDemo.exe
+C:\GABRIELA GILES\demos\WindowsDemo\WindowsDemo\bin\Debug\WindowsDemo.pdb
+C:\GABRIELA GILES\demos\WindowsDemo\WindowsDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\GABRIELA GILES\demos\WindowsDemo\WindowsDemo\obj\Debug\WindowsDemo.Form1.resources
+C:\GABRIELA GILES\demos\WindowsDemo\WindowsDemo\obj\Debug\WindowsDemo.Properties.Resources.resources
+C:\GABRIELA GILES\demos\WindowsDemo\WindowsDemo\obj\Debug\WindowsDemo.csproj.GenerateResource.Cache
+C:\GABRIELA GILES\demos\WindowsDemo\WindowsDemo\obj\Debug\WindowsDemo.exe
+C:\GABRIELA GILES\demos\WindowsDemo\WindowsDemo\obj\Debug\WindowsDemo.pdb

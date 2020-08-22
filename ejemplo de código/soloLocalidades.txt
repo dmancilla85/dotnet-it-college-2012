@@ -1,0 +1,16 @@
+public class Utiles
+    {
+        public static DataTable soloLocalidades()
+        {
+            //1.
+            string query = "SELECT Distinct Localidad FROM Cliente";
+            //2.
+            SqlDataAdapter da = new SqlDataAdapter(query, AdminDB.ConectarDB());
+            //.3
+            DataSet ds = new DataSet();
+            //4.
+            da.Fill(ds, "SoloLocalidades");
+            //5.
+            return ds.Tables["SoloLocalidades"];
+
+        }

@@ -1,0 +1,86 @@
+1- Crear un proyecto de libreria, nombre:Libreria
+ 
+	>> Agregar una nueva clase en la biblioteca:	
+		Nombre de clase: basePersona
+	
+2-	Agregar los siguientes miembros:
+	
+	2.1 enum: Genders(Male,Female)
+
+	EJEMPLO DE CODIGO:	
+	public enum Genders : int { Male, Female };	
+
+	2.2 	Variables privadas:
+		firstName;(string)
+		lastName;(string)
+		age(int)
+		gender(Genders)
+
+
+		EJEMPLO DE CODIGO:
+		private string firstName;
+            	private string lastName;
+            	private int age;
+            	private Genders gender;
+
+
+
+	2.3 definir un contructor que permita inicializar las variables privadas
+
+	
+	    EJEMPLO DE CODIGO:
+	    public Person(string _firstName, string _lastName, int _age, Genders _gender)
+            {
+                firstName = _firstName;
+                lastName = _lastName;
+                age = _age;
+                gender = _gender;
+            }
+
+
+
+	2.4 sobreescribir el método ToString, que retorne en una cadena nombre, apellido, sexo y edad
+		
+	EJEMPLO DE CODIGO:
+	
+	    public override string ToString()
+            {
+                return firstName + " " + lastName + " (" + gender + "), age " + age;
+            }
+
+
+	
+3- Agregar una nueva clase, nombre: Manager
+	
+	3.1 hereda de basePersona
+	
+	EJEMPLO DE CODIGO:
+	public class Manager : Person //herencia
+	
+	3.2 Definir las propíedades:
+		TelefonoLaboral
+		DireccionLaboral
+	
+	3.3 Definir un contructor que permita inicializar las variables privadas de la clase Manger y los campos privados de la clase basePersona
+	
+	EJEMPLO DE CODIGO:
+	public Manager(string _firstName, string _lastName, int _age, Genders _gender, string _phoneNumber, string _officeLocation): base(_firstName, _lastName, _age, _gender)
+        {
+            phoneNumber = _phoneNumber;
+            officeLocation = _officeLocation;
+        }
+
+	3.4- sobreescribir el método ToString
+
+	EJEMPLO DE CODIGO:
+	public override string ToString()
+        {
+            return base.ToString() + ", " + phoneNumber + ", " + officeLocation;
+        }
+
+4. agregar a la solucion un proyecto de windows: WindowsApp
+4.1 agregar una referenccia a la libreria
+4.2 Probar las clase persona y manager.
+4.3 mostrar los datos invocando al método ToString()
+	
+	

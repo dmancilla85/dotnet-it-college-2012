@@ -1,0 +1,15 @@
+D:\Proyectos\c#\PersonLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\c#\PersonLibrary\bin\Debug\PersonLibrary.dll
+D:\Proyectos\c#\PersonLibrary\bin\Debug\PersonLibrary.pdb
+D:\Proyectos\c#\PersonLibrary\obj\Debug\PersonLibrary.dll
+D:\Proyectos\c#\PersonLibrary\obj\Debug\PersonLibrary.pdb
+D:\Proyectos\dotnet\ITC-Person\PersonLibrary\bin\Debug\PersonLibrary.dll
+D:\Proyectos\dotnet\ITC-Person\PersonLibrary\bin\Debug\PersonLibrary.pdb
+D:\Proyectos\dotnet\ITC-Person\PersonLibrary\obj\Debug\PersonLibrary.dll
+D:\Proyectos\dotnet\ITC-Person\PersonLibrary\obj\Debug\PersonLibrary.pdb
+C:\Proyectos\dotnet\ITC-Person\PersonLibrary\bin\Debug\PersonLibrary.dll
+C:\Proyectos\dotnet\ITC-Person\PersonLibrary\bin\Debug\PersonLibrary.pdb
+C:\Proyectos\dotnet\ITC-Person\PersonLibrary\obj\Debug\PersonLibrary.csprojAssemblyReference.cache
+C:\Proyectos\dotnet\ITC-Person\PersonLibrary\obj\Debug\PersonLibrary.csproj.CoreCompileInputs.cache
+C:\Proyectos\dotnet\ITC-Person\PersonLibrary\obj\Debug\PersonLibrary.dll
+C:\Proyectos\dotnet\ITC-Person\PersonLibrary\obj\Debug\PersonLibrary.pdb

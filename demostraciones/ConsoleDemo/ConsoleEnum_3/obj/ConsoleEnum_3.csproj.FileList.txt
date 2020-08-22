@@ -1,0 +1,5 @@
+bin\Debug\ConsoleEnum_3.exe
+bin\Debug\ConsoleEnum_3.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ConsoleEnum_3.exe
+obj\Debug\ConsoleEnum_3.pdb

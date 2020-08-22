@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsAppDelegados", "WindowsAppDelegados\WindowsAppDelegados.vbproj", "{280A5496-8610-4597-B6EA-5383F0955FED}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsAppDelegados2", "WindowsAppDelegados2\WindowsAppDelegados2.vbproj", "{B9E87ECA-982B-4F4B-9708-A860049920DA}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsAppGeneric", "WindowsAppGeneric\WindowsAppGeneric.vbproj", "{6FFBD29F-32C6-495D-8068-0CDBE7666EA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{280A5496-8610-4597-B6EA-5383F0955FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280A5496-8610-4597-B6EA-5383F0955FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280A5496-8610-4597-B6EA-5383F0955FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280A5496-8610-4597-B6EA-5383F0955FED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9E87ECA-982B-4F4B-9708-A860049920DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E87ECA-982B-4F4B-9708-A860049920DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E87ECA-982B-4F4B-9708-A860049920DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E87ECA-982B-4F4B-9708-A860049920DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FFBD29F-32C6-495D-8068-0CDBE7666EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FFBD29F-32C6-495D-8068-0CDBE7666EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FFBD29F-32C6-495D-8068-0CDBE7666EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FFBD29F-32C6-495D-8068-0CDBE7666EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

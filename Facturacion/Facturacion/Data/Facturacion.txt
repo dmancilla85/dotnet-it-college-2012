@@ -1,0 +1,54 @@
+(localdb)\\mssqllocaldb;Database=MvcMovieContext-1;Trusted_Connection=True;MultipleActiveResultSets=true
+
+1) AGREGAR UN NUEVO PROYECTO DACDATASETTIPADO
+2) AGREGAR DSFACTURACION AL PROYECTO
+3) Desde SERVER EXPLORER arrastrar la tabla Cliente al DS Facturacion
+4) Generar y verificar que no hay errores
+5) Agregar una clase AdminCliente
+       5.1) Definir el método traerTodos() return DS_Facturacion
+
+	public static dsFacturacion TraerTodos()
+	{
+		dsFacturacion ds = new dsFacturacion();
+		dsFacturacionTableAdapters.clienteTableAdapter da = new}
+			dsFacturacionTableAdapters.clienteTableAdapter();
+		da.fill(ds.Cliente);
+		return ds;
+	}
+
+6) Agregar una referencia al proyecto web
+7) Agregar nueva webForm - Nombre listaClientes.aspx
+       7.1) Agregar un gridview y mostrar los clientes
+
+
+STORED PROCEDURE
+================
+
+1) SQLConnection conexion = new SQLConexion(cadena);
+2) SQLCommand comando = new SQLCommand("insertar",conexion);
+3) Comando.Parameters.Add("@nombre", SQLDBType.Varchar, 50).Value = "Gaby";
+   Comando.Parameters.Add("@apellido", SQLDBType.Varchar, 50).Value = "Giles";
+   Comando.Parameters.Add("@fecha", SQLDBType.Varchar, 50).Value = "2-2-1983";
+   Comando.Parameters.Add("@localidad", SQLDBType.Varchar, 50).Value = "Quilmes";
+
+
+--------------------------------------------------------------------------
+
+Plantilla de SQLCommand
+1) obj conexion
+2) Comando sql o SP
+3) .EXECUTENONQUERY
+4) El programador controla la conexión a la DB
+
+public static int insertar(cliente rmCliente)
+1) SQLConnection conexion = new Connection(cadena);
+2) SQLCommand comando = new SQLComman("insertarCliente", conexion);
+3) comando.Parameters.Add("@nombre", SQLDatatype.Varchar,50).value = rmCliente.Nombre;
+   comando.Parameters.Add("@apellido", SQLDatatype.Varchar,50).value = rmCliente.Nombre;
+   
+   // Si la conexión no esta abierta, abrila..
+
+4) int filasAfectadas = comando.ExecuteNonQuery();
+
+   // Cerrar la conexión
+    return filasAfectadas; 

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonLibrary", "PersonLibrary.csproj", "{3140D04B-73E9-44EB-90A5-B5951242011A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiWindow", "..\MiWindow\MiWindow.csproj", "{0F4DD69E-2FCB-4084-85EE-6C4FE6058F3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3140D04B-73E9-44EB-90A5-B5951242011A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3140D04B-73E9-44EB-90A5-B5951242011A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3140D04B-73E9-44EB-90A5-B5951242011A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3140D04B-73E9-44EB-90A5-B5951242011A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4DD69E-2FCB-4084-85EE-6C4FE6058F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4DD69E-2FCB-4084-85EE-6C4FE6058F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4DD69E-2FCB-4084-85EE-6C4FE6058F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4DD69E-2FCB-4084-85EE-6C4FE6058F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+bin\Debug\ConsoleEvents.exe
+bin\Debug\ConsoleEvents.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ConsoleEvents.exe
+obj\Debug\ConsoleEvents.pdb

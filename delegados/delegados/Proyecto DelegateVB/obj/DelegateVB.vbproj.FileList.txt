@@ -1,0 +1,7 @@
+obj\Debug\VBDelegate.exe
+obj\Debug\VBDelegate.pdb
+obj\Debug\ResolveAssemblyReference.cache
+bin\VBDelegate.exe
+bin\VBDelegate.pdb
+bin\VBDelegate.xml
+obj\Debug\VBDelegate.xml

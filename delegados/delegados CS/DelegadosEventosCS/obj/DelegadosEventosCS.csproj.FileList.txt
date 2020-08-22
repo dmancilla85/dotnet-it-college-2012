@@ -1,0 +1,5 @@
+bin\Debug\DelegadosEventosCS.dll
+bin\Debug\DelegadosEventosCS.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DelegadosEventosCS.dll
+obj\Debug\DelegadosEventosCS.pdb

@@ -1,0 +1,5 @@
+C:\cursoC#\laboratorio de files system y delegados\Lab 01\Solution\Lab 01\FileSystemWatcher\bin\Debug\FileSystemWatcher.dll
+C:\cursoC#\laboratorio de files system y delegados\Lab 01\Solution\Lab 01\FileSystemWatcher\bin\Debug\FileSystemWatcher.pdb
+C:\cursoC#\laboratorio de files system y delegados\Lab 01\Solution\Lab 01\FileSystemWatcher\obj\Debug\ResolveAssemblyReference.cache
+C:\cursoC#\laboratorio de files system y delegados\Lab 01\Solution\Lab 01\FileSystemWatcher\obj\Debug\FileSystemWatcher.dll
+C:\cursoC#\laboratorio de files system y delegados\Lab 01\Solution\Lab 01\FileSystemWatcher\obj\Debug\FileSystemWatcher.pdb

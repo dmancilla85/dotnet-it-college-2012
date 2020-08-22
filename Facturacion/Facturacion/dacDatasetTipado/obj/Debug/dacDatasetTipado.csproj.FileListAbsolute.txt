@@ -1,0 +1,12 @@
+D:\Proyectos\c#\Facturacion\Facturacion\dacDatasetTipado\bin\Debug\dacDatasetTipado.dll.config
+D:\Proyectos\c#\Facturacion\Facturacion\dacDatasetTipado\bin\Debug\dacDatasetTipado.dll
+D:\Proyectos\c#\Facturacion\Facturacion\dacDatasetTipado\bin\Debug\dacDatasetTipado.pdb
+D:\Proyectos\c#\Facturacion\Facturacion\dacDatasetTipado\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\c#\Facturacion\Facturacion\dacDatasetTipado\obj\Debug\dacDatasetTipado.dll
+D:\Proyectos\c#\Facturacion\Facturacion\dacDatasetTipado\obj\Debug\dacDatasetTipado.pdb
+D:\Proyectos\dotnet\Facturacion\Facturacion\dacDatasetTipado\bin\Debug\dacDatasetTipado.dll.config
+D:\Proyectos\dotnet\Facturacion\Facturacion\dacDatasetTipado\bin\Debug\dacDatasetTipado.dll
+D:\Proyectos\dotnet\Facturacion\Facturacion\dacDatasetTipado\bin\Debug\dacDatasetTipado.pdb
+D:\Proyectos\dotnet\Facturacion\Facturacion\dacDatasetTipado\obj\Debug\dacDatasetTipado.csprojAssemblyReference.cache
+D:\Proyectos\dotnet\Facturacion\Facturacion\dacDatasetTipado\obj\Debug\dacDatasetTipado.dll
+D:\Proyectos\dotnet\Facturacion\Facturacion\dacDatasetTipado\obj\Debug\dacDatasetTipado.pdb

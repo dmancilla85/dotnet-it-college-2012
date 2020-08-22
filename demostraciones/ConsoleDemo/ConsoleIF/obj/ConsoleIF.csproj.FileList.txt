@@ -1,0 +1,5 @@
+bin\Debug\ConsoleIF.exe
+bin\Debug\ConsoleIF.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ConsoleIF.exe
+obj\Debug\ConsoleIF.pdb

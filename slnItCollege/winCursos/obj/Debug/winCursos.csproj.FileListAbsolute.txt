@@ -1,0 +1,8 @@
+C:\GabyGiles\slnItCollege\winCursos\bin\Debug\winCursos.exe
+C:\GabyGiles\slnItCollege\winCursos\bin\Debug\winCursos.pdb
+C:\GabyGiles\slnItCollege\winCursos\obj\Debug\ResolveAssemblyReference.cache
+C:\GabyGiles\slnItCollege\winCursos\obj\Debug\winCursos.Properties.Resources.resources
+C:\GabyGiles\slnItCollege\winCursos\obj\Debug\winCursos.csproj.GenerateResource.Cache
+C:\GabyGiles\slnItCollege\winCursos\obj\Debug\winCursos.exe
+C:\GabyGiles\slnItCollege\winCursos\obj\Debug\winCursos.pdb
+C:\GabyGiles\slnItCollege\winCursos\obj\Debug\winCursos.Form1.resources

@@ -1,0 +1,15 @@
+D:\Proyectos\c#\Facturacion\Facturacion\dacFacturacion\bin\Debug\dacFacturacion.dll.config
+D:\Proyectos\c#\Facturacion\Facturacion\dacFacturacion\bin\Debug\dacFacturacion.dll
+D:\Proyectos\c#\Facturacion\Facturacion\dacFacturacion\bin\Debug\dacFacturacion.pdb
+D:\Proyectos\c#\Facturacion\Facturacion\dacFacturacion\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\c#\Facturacion\Facturacion\dacFacturacion\obj\Debug\dacFacturacion.Properties.Resources.resources
+D:\Proyectos\c#\Facturacion\Facturacion\dacFacturacion\obj\Debug\dacFacturacion.csproj.GenerateResource.Cache
+D:\Proyectos\c#\Facturacion\Facturacion\dacFacturacion\obj\Debug\dacFacturacion.dll
+D:\Proyectos\c#\Facturacion\Facturacion\dacFacturacion\obj\Debug\dacFacturacion.pdb
+D:\Proyectos\dotnet\Facturacion\Facturacion\dacFacturacion\bin\Debug\dacFacturacion.dll.config
+D:\Proyectos\dotnet\Facturacion\Facturacion\dacFacturacion\bin\Debug\dacFacturacion.dll
+D:\Proyectos\dotnet\Facturacion\Facturacion\dacFacturacion\bin\Debug\dacFacturacion.pdb
+D:\Proyectos\dotnet\Facturacion\Facturacion\dacFacturacion\obj\Debug\dacFacturacion.Properties.Resources.resources
+D:\Proyectos\dotnet\Facturacion\Facturacion\dacFacturacion\obj\Debug\dacFacturacion.csproj.GenerateResource.cache
+D:\Proyectos\dotnet\Facturacion\Facturacion\dacFacturacion\obj\Debug\dacFacturacion.dll
+D:\Proyectos\dotnet\Facturacion\Facturacion\dacFacturacion\obj\Debug\dacFacturacion.pdb
